@@ -5,4 +5,4 @@ tandique si elle a les 4 correct c'est fini et elle peit me marrier. par la suit
 justqua ce que il reponde loption a ou b. 
 '''
 # Labo 4
-Ce programme est un jeu où la personne répond à des questions sur la F1, les habitudes en date pour voir s’il est un bon candidat pour mon mariage. Chaque réponse influence un système de points, selon les choix faits. À la fin, le programme affiche un score total et un message final indiquant si la personne est "mariable" ou non. pour jouer c'est simple il faut demmarer le jeu avec le ficher python nommer 'frormulaire 2.1' , ensuite repondre au question, et a la fin regarder le nombre de points.
+Ce programme est un jeu où la personne répond à des questions sur la F1, les habitudes en date pour voir s’il est un bon candidat pour mon mariage. Chaque réponse influence un système de points, selon les choix faits. À la fin, le programme affiche un score total et un message final indiquant si la personne est "mariable" ou non. pour jouer c'est simple il faut demmarer le jeu avec le ficher python nommer 'formulaire 2' , ensuite repondre au question, et a la fin regarder le nombre de points.
